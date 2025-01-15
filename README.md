@@ -1,9 +1,7 @@
 # demotime-main-repository
 
-
 bash scripts to hand-test everything
-
-
+```
 # Initial state if repository
 tree
 
@@ -40,7 +38,7 @@ tree
 git submodule update --checkout
 git status
 tree
-
+```
  
 
 
