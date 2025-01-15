@@ -1,0 +1,7 @@
+[submodule "demotime-classic-submodule"]
+	path = demotime-classic-submodule
+	url = git@github.com:kidal5/demotime-classic-submodule.git
+[submodule "demotime-optin-submodule"]
+	path = demotime-optin-submodule
+	url = git@github.com:kidal5/demotime-optin-submodule.git
+	update = none
